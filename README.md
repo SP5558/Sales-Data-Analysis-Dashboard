@@ -99,7 +99,7 @@ https://drive.google.com/file/d/1mMjVKf8V8oRYMjq7sgtcie863un9xvRj/view?usp=drive
 
 - 💼 LinkedIn: https://www.linkedin.com/in/sagarpatil-data-analyst  
 - 📧 Email: sagarpatilsagar2002@gmail.com
-- Contact NO : +91 7498759265
+- Contact No : +91 7498759265
 ---
 
 ---
