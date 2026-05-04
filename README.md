@@ -102,11 +102,9 @@ This enables multi-dimensional analysis across the business.
 
 ## 🤝 Connect with Me  
 
-## 🤝 Connect with Me  
-
 - 💼 LinkedIn: https://www.linkedin.com/in/sagarpatil-data-analyst  
 - 📧 Email: sagarpatilsagar2002@gmail.com
-
+- Contact NO : +91 7498759265
 ---
 
 ---
