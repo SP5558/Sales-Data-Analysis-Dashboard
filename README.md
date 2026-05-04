@@ -1,5 +1,5 @@
 # 📊 Sales Data Analysis Dashboard (Power BI)
-[![Power BI Report](https://img.shields.io/badge/View%20Dashboard-Click%20Here-orange?logo=google-drive)](https://drive.google.com/file/d/1mMjVKf8V8oRYMjq7sgtcie863un9xvRj/view?usp=drive_link)
+[[![Power BI Report](https://img.shields.io/badge/View%20Dashboard-Click%20Here-orange?logo=google-drive)](https://raw.githubusercontent.com/SP5558/Sales-Data-Analysis-Dashboard/main/Dashboard1.png)]
 
 ---
 
