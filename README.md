@@ -1,6 +1,5 @@
 # 📊 Sales Data Analysis Dashboard (Power BI)
-
-![Power BI](https://img.shields.io/badge/Tool-PowerBI-yellow?logo=powerbi)
+[![Power BI Report](https://img.shields.io/badge/View%20Dashboard-Click%20Here-orange?logo=google-drive)](https://drive.google.com/file/d/1mMjVKf8V8oRYMjq7sgtcie863un9xvRj/view?usp=drive_link)
 ![Data Analytics](https://img.shields.io/badge/Field-Data%20Analytics-blue)
 ![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
 ![Author](https://img.shields.io/badge/Author-Sagar%20Patil-orange)
