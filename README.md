@@ -66,12 +66,7 @@ This enables multi-dimensional analysis across the business.
 ## 📷 Dashboard Preview  
 
 ### 🔹 Overview Dashboard  
-![Dashboard](https://via.placeholder.com/800x400.png?text=Add+Dashboard+Screenshot)
-
-### 🔹 Sales Analysis  
-![Sales](https://via.placeholder.com/800x400.png?text=Add+Sales+Analysis)
-
-> 📌 Replace images with your actual dashboard screenshots
+https://drive.google.com/file/d/1mMjVKf8V8oRYMjq7sgtcie863un9xvRj/view?usp=drive_link
 
 ---
 
