@@ -1,103 +1,99 @@
-# 📊 Sales Data Analysis Dashboard (Power BI)
-[[![Power BI Report](https://img.shields.io/badge/View%20Dashboard-Click%20Here-orange?logo=google-drive)](https://raw.githubusercontent.com/SP5558/Sales-Data-Analysis-Dashboard/main/Dashboard1.png)]
+# 📊 Sales Data Analysis Dashboard
 
----
+A comprehensive **Power BI Business Intelligence Project** designed to analyze retail sales performance, customer behavior, product trends, and store-level insights. This dashboard transforms raw data into actionable business intelligence to support data-driven decision-making.
 
-## 🔍 Overview  
-This project presents an interactive **Power BI dashboard** built to analyze retail sales data. It transforms raw data into meaningful insights to support data-driven decision-making.
+## 🎯 Project Overview
+The objective of this project is to analyze sales data from multiple business dimensions and present insights through an interactive Power BI dashboard.
+Key focus areas:
 
----
+* Sales Performance Analysis
+* Customer Insights
+* Product Performance
+* Store Analysis
+* Revenue Trends
 
-## 📁 Dataset  
+## 📂 Dataset
 The project uses multiple datasets:
+| Dataset       | Description                    |
+| ------------- | ------------------------------ |
+| Sales.csv     | Transaction-level sales data   |
+| Customer.xlsx | Customer information           |
+| Product.csv   | Product details and categories |
+| Store.xlsx    | Store and regional information |
 
-- **Sales.csv** → Transaction-level sales data  
-- **Customer.xlsx** → Customer details  
-- **Product.csv** → Product categories and pricing  
-- **Store.xlsx** → Store and regional data  
-
----
-
-## 🔗 Data Model  
-A structured data model was created by establishing relationships:
-
-- Sales ↔ Customer (Customer ID)  
-- Sales ↔ Product (Product ID)  
-- Sales ↔ Store (Store ID)  
-
-This enables multi-dimensional analysis across the business.
-
----
-
-## ⚙️ Features  
-
-✔ Data Cleaning & Transformation (Power Query)  
-✔ Data Modeling (Star Schema)  
-✔ DAX Measures for KPIs  
-✔ Interactive Dashboard with Filters & Slicers  
-✔ Drill-down Analysis  
+## 🔗 Data Model
+A Star Schema data model was created by establishing relationships between tables:
+* Sales ↔ Customer (Customer ID)
+* Sales ↔ Product (Product ID)
+* Sales ↔ Store (Store ID)
+This structure enables efficient reporting and analysis.
+  
+## 🛠️ Tools & Technologies
+* Power BI
+* Power Query
+* DAX (Data Analysis Expressions)
+* Excel
+* CSV Data Sources
 
 ---
 
-## 📊 Key Insights  
+## ⚙️ Features
 
-- 💰 Total Sales and Revenue Trends  
-- 📈 Monthly & Yearly Performance  
-- 🏆 Top-Selling Products  
-- 👥 Customer Behavior Analysis  
-- 🌍 Store-wise Performance  
-- 📅 Seasonal Trends  
+✔ Data Cleaning & Transformation using Power Query
 
----
+✔ Data Modeling using Star Schema
 
-## 🛠️ Tools & Technologies  
+✔ DAX Measures & KPIs
 
-- Power BI  
-- Power Query  
-- DAX (Data Analysis Expressions)  
-- Excel / CSV  
+✔ Interactive Filters & Slicers
 
----
+✔ Drill-Down Analysis
 
-## 📷 Dashboard Preview  
+✔ Business Performance Tracking
 
-### 🔹 Overview Dashboard  
-https://drive.google.com/file/d/1mMjVKf8V8oRYMjq7sgtcie863un9xvRj/view?usp=drive_link
+## 📊 Dashboard Preview
 
----
+![Sales Dashboard](Dashboard.png)
+![Sales Dashboard 2](Dashboard1.png)
 
-## 🚀 Key Learnings  
+## 📈 Key Insights
+* 💰 Revenue and Sales Performance Trends
+* 📊 Monthly and Yearly Growth Analysis
+* 🏆 Top-Selling Products
+* 👥 Customer Purchasing Behavior
+* 🌍 Regional & Store-wise Performance
+* 📅 Seasonal Sales Trends
 
-- Data cleaning and preprocessing  
-- Building efficient data models  
-- Writing DAX calculations  
-- Designing interactive dashboards  
+## 📌 KPIs Tracked
+* Total Revenue
+* Total Sales
+* Total Orders
+* Average Order Value
+* Customer Count
+* Product Performance
 
----
+## 🚀 Key Learnings
+* Data Cleaning & Transformation
+* Building Data Models
+* Writing DAX Measures
+* Dashboard Design Best Practices
+* Business Intelligence Reporting
 
-## 📌 How to Use  
+## 📥 How to Use
+1. Download the `POWER_BI.pbix` file.
+2. Open it using Power BI Desktop.
+3. Refresh the data if required.
+4. Explore the dashboard using filters and slicers.
 
-1. Download the `.pbix` file  
-2. Open in **Power BI Desktop**  
-3. Explore dashboards using filters and slicers  
+## 🔮 Future Improvements
+* Sales Forecasting
+* Advanced DAX Calculations
+* Customer Segmentation Analysis
+* Enhanced Dashboard UI/UX
 
----
+## 👨‍💻 Author
+**Sagar Patil**
+💼 LinkedIn: [www.linkedin.com/in/sagarpatil-data-analyst](http://www.linkedin.com/in/sagarpatil-data-analyst)
+📧 Email: [sagarpatilsagar2002@gmail.com](mailto:sagarpatilsagar2002@gmail.com)
 
-## 📈 Future Improvements  
-
-- Add forecasting analysis  
-- Improve dashboard UI/UX  
-- Include advanced DAX metrics  
-
----
-
-## 🤝 Connect with Me  
-
-- 💼 LinkedIn: https://www.linkedin.com/in/sagarpatil-data-analyst  
-- 📧 Email: sagarpatilsagar2002@gmail.com
-- Contact No : +91 7498759265
----
-
----
-
-⭐ If you found this project useful, consider giving it a star!
+⭐ If you found this project helpful, consider giving it a star!
